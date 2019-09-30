@@ -1,6 +1,11 @@
-User Story
----
+Product Definition
+-
 
+### Product Mission
+
+This App is majorly specific for the users who is wiling to exercise. It help users search for the nearby fitness events by locating users position. Provide different events about fitness to meet the various need of the public. Also, for those who are interested in the same field, they can share their information and organize a new event by themselves.
+
+### User Story
 
 * I, as an athlete, I would like to go to a place where hold a seminar about nutrition intake for the professional.
 
@@ -21,3 +26,38 @@ User Story
 * I, as an outdoor fitness enthusiast, want to join outdoor sport events like marathon, cycling.
 
 * I, as a bodybuilder, want to join bootcamps to communicate and exchange experiences on building bodies.
+
+### Target Users
+
+* Athelete
+
+* Person who pursue losing weights
+
+* Person who want to keep fit
+
+### MVP
+
+* Background survey, Access to "join/create" an event.
+
+* Feedback(provide number of potential customers based on their activities to the event creator) and Notification.
+
+* Estimate the calorie consumption for each event.
+
+* User Interface
+
+* Utilize Google Map API
+
+
+### System Design
+
+#### API
+
+* Google Map API, eventbrite API
+
+#### Database
+
+* Firebase
+
+#### App
+
+* Android Studio
